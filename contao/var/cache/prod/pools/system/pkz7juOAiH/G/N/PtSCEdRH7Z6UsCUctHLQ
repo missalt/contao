@@ -1,0 +1,457 @@
+<?php //contao.twig.template_hierarchy
+
+return [PHP_INT_MAX, [
+    'contaodemo/ce_text_slider' => [
+        '/var/www/html/templates/contaodemo/ce_text_slider.html5' => '@Contao_Global/contaodemo/ce_text_slider.html5',
+    ],
+    'contaodemo/mod_article' => [
+        '/var/www/html/templates/contaodemo/mod_article.html5' => '@Contao_Global/contaodemo/mod_article.html5',
+    ],
+    'mod_newsletter' => [
+        '/var/www/html/vendor/contao/newsletter-bundle/src/Resources/contao/templates/modules/mod_newsletter.html5' => '@Contao_ContaoNewsletterBundle/mod_newsletter.html5',
+    ],
+    'mod_newsletterlist' => [
+        '/var/www/html/vendor/contao/newsletter-bundle/src/Resources/contao/templates/modules/mod_newsletterlist.html5' => '@Contao_ContaoNewsletterBundle/mod_newsletterlist.html5',
+    ],
+    'mod_newsletterreader' => [
+        '/var/www/html/vendor/contao/newsletter-bundle/src/Resources/contao/templates/modules/mod_newsletterreader.html5' => '@Contao_ContaoNewsletterBundle/mod_newsletterreader.html5',
+    ],
+    'nl_default' => [
+        '/var/www/html/vendor/contao/newsletter-bundle/src/Resources/contao/templates/newsletter/nl_default.html5' => '@Contao_ContaoNewsletterBundle/nl_default.html5',
+    ],
+    'cal_default' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/calendar/cal_default.html5' => '@Contao_ContaoCalendarBundle/cal_default.html5',
+    ],
+    'cal_mini' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/calendar/cal_mini.html5' => '@Contao_ContaoCalendarBundle/cal_mini.html5',
+    ],
+    'event_full' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/events/event_full.html5' => '@Contao_ContaoCalendarBundle/event_full.html5',
+    ],
+    'event_list' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/events/event_list.html5' => '@Contao_ContaoCalendarBundle/event_list.html5',
+    ],
+    'event_teaser' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/events/event_teaser.html5' => '@Contao_ContaoCalendarBundle/event_teaser.html5',
+    ],
+    'event_upcoming' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/events/event_upcoming.html5' => '@Contao_ContaoCalendarBundle/event_upcoming.html5',
+    ],
+    'mod_calendar' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/modules/mod_calendar.html5' => '@Contao_ContaoCalendarBundle/mod_calendar.html5',
+    ],
+    'mod_eventlist' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/modules/mod_eventlist.html5' => '@Contao_ContaoCalendarBundle/mod_eventlist.html5',
+    ],
+    'mod_eventmenu' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/modules/mod_eventmenu.html5' => '@Contao_ContaoCalendarBundle/mod_eventmenu.html5',
+    ],
+    'mod_eventreader' => [
+        '/var/www/html/vendor/contao/calendar-bundle/src/Resources/contao/templates/modules/mod_eventreader.html5' => '@Contao_ContaoCalendarBundle/mod_eventreader.html5',
+    ],
+    'info_default' => [
+        '/var/www/html/vendor/contao/listing-bundle/src/Resources/contao/templates/info/info_default.html5' => '@Contao_ContaoListingBundle/info_default.html5',
+    ],
+    'list_default' => [
+        '/var/www/html/vendor/contao/listing-bundle/src/Resources/contao/templates/listing/list_default.html5' => '@Contao_ContaoListingBundle/list_default.html5',
+    ],
+    'mod_newsarchive' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/modules/mod_newsarchive.html5' => '@Contao_ContaoNewsBundle/mod_newsarchive.html5',
+    ],
+    'mod_newslist' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/modules/mod_newslist.html5' => '@Contao_ContaoNewsBundle/mod_newslist.html5',
+    ],
+    'mod_newsmenu' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/modules/mod_newsmenu.html5' => '@Contao_ContaoNewsBundle/mod_newsmenu.html5',
+    ],
+    'mod_newsreader' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/modules/mod_newsreader.html5' => '@Contao_ContaoNewsBundle/mod_newsreader.html5',
+    ],
+    'news_full' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/news/news_full.html5' => '@Contao_ContaoNewsBundle/news_full.html5',
+    ],
+    'news_latest' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/news/news_latest.html5' => '@Contao_ContaoNewsBundle/news_latest.html5',
+    ],
+    'news_short' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/news/news_short.html5' => '@Contao_ContaoNewsBundle/news_short.html5',
+    ],
+    'news_simple' => [
+        '/var/www/html/vendor/contao/news-bundle/src/Resources/contao/templates/news/news_simple.html5' => '@Contao_ContaoNewsBundle/news_simple.html5',
+    ],
+    'com_default' => [
+        '/var/www/html/vendor/contao/comments-bundle/src/Resources/contao/templates/comments/com_default.html5' => '@Contao_ContaoCommentsBundle/com_default.html5',
+    ],
+    'ce_comments' => [
+        '/var/www/html/vendor/contao/comments-bundle/src/Resources/contao/templates/elements/ce_comments.html5' => '@Contao_ContaoCommentsBundle/ce_comments.html5',
+    ],
+    'mod_comment_form' => [
+        '/var/www/html/vendor/contao/comments-bundle/src/Resources/contao/templates/modules/mod_comment_form.html5' => '@Contao_ContaoCommentsBundle/mod_comment_form.html5',
+    ],
+    'mod_comments' => [
+        '/var/www/html/vendor/contao/comments-bundle/src/Resources/contao/templates/modules/mod_comments.html5' => '@Contao_ContaoCommentsBundle/mod_comments.html5',
+    ],
+    'mod_faqlist' => [
+        '/var/www/html/vendor/contao/faq-bundle/src/Resources/contao/templates/modules/mod_faqlist.html5' => '@Contao_ContaoFaqBundle/mod_faqlist.html5',
+    ],
+    'mod_faqpage' => [
+        '/var/www/html/vendor/contao/faq-bundle/src/Resources/contao/templates/modules/mod_faqpage.html5' => '@Contao_ContaoFaqBundle/mod_faqpage.html5',
+    ],
+    'mod_faqreader' => [
+        '/var/www/html/vendor/contao/faq-bundle/src/Resources/contao/templates/modules/mod_faqreader.html5' => '@Contao_ContaoFaqBundle/mod_faqreader.html5',
+    ],
+    'analytics_google' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/analytics/analytics_google.html5' => '@Contao_ContaoCoreBundle/analytics_google.html5',
+    ],
+    'analytics_matomo' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/analytics/analytics_matomo.html5' => '@Contao_ContaoCoreBundle/analytics_matomo.html5',
+    ],
+    'be_ace' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_ace.html5' => '@Contao_ContaoCoreBundle/be_ace.html5',
+    ],
+    'be_alerts' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_alerts.html5' => '@Contao_ContaoCoreBundle/be_alerts.html5',
+    ],
+    'be_confirm' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_confirm.html5' => '@Contao_ContaoCoreBundle/be_confirm.html5',
+    ],
+    'be_conflict' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_conflict.html5' => '@Contao_ContaoCoreBundle/be_conflict.html5',
+    ],
+    'be_crawl' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_crawl.html5' => '@Contao_ContaoCoreBundle/be_crawl.html5',
+    ],
+    'be_csv_import' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_csv_import.html5' => '@Contao_ContaoCoreBundle/be_csv_import.html5',
+    ],
+    'be_diff' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_diff.html5' => '@Contao_ContaoCoreBundle/be_diff.html5',
+    ],
+    'be_help' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_help.html5' => '@Contao_ContaoCoreBundle/be_help.html5',
+    ],
+    'be_login' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_login.html5' => '@Contao_ContaoCoreBundle/be_login.html5',
+    ],
+    'be_login_two_factor' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_login_two_factor.html5' => '@Contao_ContaoCoreBundle/be_login_two_factor.html5',
+    ],
+    'be_main' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_main.html5' => '@Contao_ContaoCoreBundle/be_main.html5',
+    ],
+    'be_maintenance' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_maintenance.html5' => '@Contao_ContaoCoreBundle/be_maintenance.html5',
+    ],
+    'be_navigation' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_navigation.html5' => '@Contao_ContaoCoreBundle/be_navigation.html5',
+    ],
+    'be_pagination' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_pagination.html5' => '@Contao_ContaoCoreBundle/be_pagination.html5',
+    ],
+    'be_password' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_password.html5' => '@Contao_ContaoCoreBundle/be_password.html5',
+    ],
+    'be_picker' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_picker.html5' => '@Contao_ContaoCoreBundle/be_picker.html5',
+    ],
+    'be_popup' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_popup.html5' => '@Contao_ContaoCoreBundle/be_popup.html5',
+    ],
+    'be_purge_data' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_purge_data.html5' => '@Contao_ContaoCoreBundle/be_purge_data.html5',
+    ],
+    'be_tinyMCE' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_tinyMCE.html5' => '@Contao_ContaoCoreBundle/be_tinyMCE.html5',
+    ],
+    'be_tinyNews' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_tinyNews.html5' => '@Contao_ContaoCoreBundle/be_tinyNews.html5',
+    ],
+    'be_two_factor' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_two_factor.html5' => '@Contao_ContaoCoreBundle/be_two_factor.html5',
+    ],
+    'be_welcome' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_welcome.html5' => '@Contao_ContaoCoreBundle/be_welcome.html5',
+    ],
+    'be_widget' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_widget.html5' => '@Contao_ContaoCoreBundle/be_widget.html5',
+    ],
+    'be_widget_chk' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_widget_chk.html5' => '@Contao_ContaoCoreBundle/be_widget_chk.html5',
+    ],
+    'be_widget_chpw' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_widget_chpw.html5' => '@Contao_ContaoCoreBundle/be_widget_chpw.html5',
+    ],
+    'be_widget_rdo' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_widget_rdo.html5' => '@Contao_ContaoCoreBundle/be_widget_rdo.html5',
+    ],
+    'be_wildcard' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/backend/be_wildcard.html5' => '@Contao_ContaoCoreBundle/be_wildcard.html5',
+    ],
+    'block_searchable' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/block/block_searchable.html5' => '@Contao_ContaoCoreBundle/block_searchable.html5',
+    ],
+    'block_section' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/block/block_section.html5' => '@Contao_ContaoCoreBundle/block_section.html5',
+    ],
+    'block_sections' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/block/block_sections.html5' => '@Contao_ContaoCoreBundle/block_sections.html5',
+    ],
+    'block_unsearchable' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/block/block_unsearchable.html5' => '@Contao_ContaoCoreBundle/block_unsearchable.html5',
+    ],
+    'ce_accordionSingle' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_accordionSingle.html5' => '@Contao_ContaoCoreBundle/ce_accordionSingle.html5',
+    ],
+    'ce_accordionStart' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_accordionStart.html5' => '@Contao_ContaoCoreBundle/ce_accordionStart.html5',
+    ],
+    'ce_accordionStop' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_accordionStop.html5' => '@Contao_ContaoCoreBundle/ce_accordionStop.html5',
+    ],
+    'ce_code' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_code.html5' => '@Contao_ContaoCoreBundle/ce_code.html5',
+    ],
+    'ce_download' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_download.html5' => '@Contao_ContaoCoreBundle/ce_download.html5',
+    ],
+    'ce_downloads' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_downloads.html5' => '@Contao_ContaoCoreBundle/ce_downloads.html5',
+    ],
+    'ce_gallery' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_gallery.html5' => '@Contao_ContaoCoreBundle/ce_gallery.html5',
+    ],
+    'ce_headline' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_headline.html5' => '@Contao_ContaoCoreBundle/ce_headline.html5',
+    ],
+    'ce_html' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_html.html5' => '@Contao_ContaoCoreBundle/ce_html.html5',
+    ],
+    'ce_hyperlink' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_hyperlink.html5' => '@Contao_ContaoCoreBundle/ce_hyperlink.html5',
+    ],
+    'ce_image' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_image.html5' => '@Contao_ContaoCoreBundle/ce_image.html5',
+    ],
+    'ce_list' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_list.html5' => '@Contao_ContaoCoreBundle/ce_list.html5',
+    ],
+    'ce_markdown' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_markdown.html5' => '@Contao_ContaoCoreBundle/ce_markdown.html5',
+    ],
+    'ce_player' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_player.html5' => '@Contao_ContaoCoreBundle/ce_player.html5',
+    ],
+    'ce_sliderStart' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_sliderStart.html5' => '@Contao_ContaoCoreBundle/ce_sliderStart.html5',
+    ],
+    'ce_sliderStop' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_sliderStop.html5' => '@Contao_ContaoCoreBundle/ce_sliderStop.html5',
+    ],
+    'ce_table' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_table.html5' => '@Contao_ContaoCoreBundle/ce_table.html5',
+    ],
+    'ce_teaser' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_teaser.html5' => '@Contao_ContaoCoreBundle/ce_teaser.html5',
+    ],
+    'ce_template' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_template.html5' => '@Contao_ContaoCoreBundle/ce_template.html5',
+    ],
+    'ce_text' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_text.html5' => '@Contao_ContaoCoreBundle/ce_text.html5',
+    ],
+    'ce_toplink' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_toplink.html5' => '@Contao_ContaoCoreBundle/ce_toplink.html5',
+    ],
+    'ce_vimeo' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_vimeo.html5' => '@Contao_ContaoCoreBundle/ce_vimeo.html5',
+    ],
+    'ce_youtube' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/elements/ce_youtube.html5' => '@Contao_ContaoCoreBundle/ce_youtube.html5',
+    ],
+    'form_captcha' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_captcha.html5' => '@Contao_ContaoCoreBundle/form_captcha.html5',
+    ],
+    'form_checkbox' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_checkbox.html5' => '@Contao_ContaoCoreBundle/form_checkbox.html5',
+    ],
+    'form_explanation' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_explanation.html5' => '@Contao_ContaoCoreBundle/form_explanation.html5',
+    ],
+    'form_fieldsetStart' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_fieldsetStart.html5' => '@Contao_ContaoCoreBundle/form_fieldsetStart.html5',
+    ],
+    'form_fieldsetStop' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_fieldsetStop.html5' => '@Contao_ContaoCoreBundle/form_fieldsetStop.html5',
+    ],
+    'form_hidden' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_hidden.html5' => '@Contao_ContaoCoreBundle/form_hidden.html5',
+    ],
+    'form_html' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_html.html5' => '@Contao_ContaoCoreBundle/form_html.html5',
+    ],
+    'form_message' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_message.html5' => '@Contao_ContaoCoreBundle/form_message.html5',
+    ],
+    'form_password' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_password.html5' => '@Contao_ContaoCoreBundle/form_password.html5',
+    ],
+    'form_radio' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_radio.html5' => '@Contao_ContaoCoreBundle/form_radio.html5',
+    ],
+    'form_range' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_range.html5' => '@Contao_ContaoCoreBundle/form_range.html5',
+    ],
+    'form_row' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_row.html5' => '@Contao_ContaoCoreBundle/form_row.html5',
+    ],
+    'form_select' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_select.html5' => '@Contao_ContaoCoreBundle/form_select.html5',
+    ],
+    'form_submit' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_submit.html5' => '@Contao_ContaoCoreBundle/form_submit.html5',
+    ],
+    'form_textarea' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_textarea.html5' => '@Contao_ContaoCoreBundle/form_textarea.html5',
+    ],
+    'form_textfield' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_textfield.html5' => '@Contao_ContaoCoreBundle/form_textfield.html5',
+    ],
+    'form_upload' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_upload.html5' => '@Contao_ContaoCoreBundle/form_upload.html5',
+    ],
+    'form_wrapper' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_wrapper.html5' => '@Contao_ContaoCoreBundle/form_wrapper.html5',
+    ],
+    'form_xml' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/forms/form_xml.html5' => '@Contao_ContaoCoreBundle/form_xml.html5',
+    ],
+    'fe_page' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/frontend/fe_page.html5' => '@Contao_ContaoCoreBundle/fe_page.html5',
+    ],
+    'gallery_default' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/gallery/gallery_default.html5' => '@Contao_ContaoCoreBundle/gallery_default.html5',
+    ],
+    'image' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/image/image.html5' => '@Contao_ContaoCoreBundle/image.html5',
+    ],
+    'j_accordion' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/jquery/j_accordion.html5' => '@Contao_ContaoCoreBundle/j_accordion.html5',
+    ],
+    'j_colorbox' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/jquery/j_colorbox.html5' => '@Contao_ContaoCoreBundle/j_colorbox.html5',
+    ],
+    'j_tablesort' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/jquery/j_tablesort.html5' => '@Contao_ContaoCoreBundle/j_tablesort.html5',
+    ],
+    'js_autofocus' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/js/js_autofocus.html5' => '@Contao_ContaoCoreBundle/js_autofocus.html5',
+    ],
+    'js_nocookie' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/js/js_nocookie.html5' => '@Contao_ContaoCoreBundle/js_nocookie.html5',
+    ],
+    'js_slider' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/js/js_slider.html5' => '@Contao_ContaoCoreBundle/js_slider.html5',
+    ],
+    'mail_default' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/mail/mail_default.html5' => '@Contao_ContaoCoreBundle/mail_default.html5',
+    ],
+    'member_default' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/member/member_default.html5' => '@Contao_ContaoCoreBundle/member_default.html5',
+    ],
+    'member_grouped' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/member/member_grouped.html5' => '@Contao_ContaoCoreBundle/member_grouped.html5',
+    ],
+    'mod_article' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_article.html5' => '@Contao_ContaoCoreBundle/mod_article.html5',
+    ],
+    'mod_articlelist' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_articlelist.html5' => '@Contao_ContaoCoreBundle/mod_articlelist.html5',
+    ],
+    'mod_articlenav' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_articlenav.html5' => '@Contao_ContaoCoreBundle/mod_articlenav.html5',
+    ],
+    'mod_booknav' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_booknav.html5' => '@Contao_ContaoCoreBundle/mod_booknav.html5',
+    ],
+    'mod_breadcrumb' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_breadcrumb.html5' => '@Contao_ContaoCoreBundle/mod_breadcrumb.html5',
+    ],
+    'mod_changePassword' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_changePassword.html5' => '@Contao_ContaoCoreBundle/mod_changePassword.html5',
+    ],
+    'mod_closeAccount' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_closeAccount.html5' => '@Contao_ContaoCoreBundle/mod_closeAccount.html5',
+    ],
+    'mod_customnav' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_customnav.html5' => '@Contao_ContaoCoreBundle/mod_customnav.html5',
+    ],
+    'mod_html' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_html.html5' => '@Contao_ContaoCoreBundle/mod_html.html5',
+    ],
+    'mod_login' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_login.html5' => '@Contao_ContaoCoreBundle/mod_login.html5',
+    ],
+    'mod_lostPassword' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_lostPassword.html5' => '@Contao_ContaoCoreBundle/mod_lostPassword.html5',
+    ],
+    'mod_message' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_message.html5' => '@Contao_ContaoCoreBundle/mod_message.html5',
+    ],
+    'mod_navigation' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_navigation.html5' => '@Contao_ContaoCoreBundle/mod_navigation.html5',
+    ],
+    'mod_password' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_password.html5' => '@Contao_ContaoCoreBundle/mod_password.html5',
+    ],
+    'mod_quicklink' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_quicklink.html5' => '@Contao_ContaoCoreBundle/mod_quicklink.html5',
+    ],
+    'mod_quicknav' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_quicknav.html5' => '@Contao_ContaoCoreBundle/mod_quicknav.html5',
+    ],
+    'mod_randomImage' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_randomImage.html5' => '@Contao_ContaoCoreBundle/mod_randomImage.html5',
+    ],
+    'mod_search' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_search.html5' => '@Contao_ContaoCoreBundle/mod_search.html5',
+    ],
+    'mod_sitemap' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_sitemap.html5' => '@Contao_ContaoCoreBundle/mod_sitemap.html5',
+    ],
+    'mod_template' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_template.html5' => '@Contao_ContaoCoreBundle/mod_template.html5',
+    ],
+    'mod_two_factor' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/modules/mod_two_factor.html5' => '@Contao_ContaoCoreBundle/mod_two_factor.html5',
+    ],
+    'moo_accordion' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/mootools/moo_accordion.html5' => '@Contao_ContaoCoreBundle/moo_accordion.html5',
+    ],
+    'moo_chosen' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/mootools/moo_chosen.html5' => '@Contao_ContaoCoreBundle/moo_chosen.html5',
+    ],
+    'moo_mediabox' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/mootools/moo_mediabox.html5' => '@Contao_ContaoCoreBundle/moo_mediabox.html5',
+    ],
+    'moo_tablesort' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/mootools/moo_tablesort.html5' => '@Contao_ContaoCoreBundle/moo_tablesort.html5',
+    ],
+    'nav_default' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/navigation/nav_default.html5' => '@Contao_ContaoCoreBundle/nav_default.html5',
+    ],
+    'pagination' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/pagination/pagination.html5' => '@Contao_ContaoCoreBundle/pagination.html5',
+    ],
+    'picture_default' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/picture/picture_default.html5' => '@Contao_ContaoCoreBundle/picture_default.html5',
+    ],
+    'rss_default' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/rss/rss_default.html5' => '@Contao_ContaoCoreBundle/rss_default.html5',
+    ],
+    'rss_items_only' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/rss/rss_items_only.html5' => '@Contao_ContaoCoreBundle/rss_items_only.html5',
+    ],
+    'search_default' => [
+        '/var/www/html/vendor/contao/core-bundle/src/Resources/contao/templates/search/search_default.html5' => '@Contao_ContaoCoreBundle/search_default.html5',
+    ],
+]];

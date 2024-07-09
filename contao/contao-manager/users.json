@@ -1,0 +1,10 @@
+{
+    "secret": "dd9224e502308a17639d3bd6b5a8457f6af1b2e0f83efd0329b87530ae092fbd29c36e09e0891063",
+    "version": 2,
+    "users": {
+        "threenet": {
+            "username": "threenet",
+            "password": "$2y$13$Ea2EJSiXWbarXyRVNCghk.i6ZZxxXKlJR7OwBgIgOCK\/L4qydtxsC"
+        }
+    }
+}
